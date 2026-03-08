@@ -1,0 +1,7 @@
+[package]
+name = "systems-memory-concepts"
+version = "0.1.0"
+edition = "2021"
+description = "Low-level systems programming and memory management concepts in Rust"
+authors = ["Roseanne Park"]
+license = "MIT"
